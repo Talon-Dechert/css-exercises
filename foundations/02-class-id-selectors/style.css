@@ -2,3 +2,8 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: hsl(357, 73%, 75%);
 }
+
+#second{
+    font-size: 36px;
+    color: hsl(239, 100%, 63%);   
+}
