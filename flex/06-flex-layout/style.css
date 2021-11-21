@@ -28,4 +28,21 @@ input {
 
 ul {
   list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header,
+.footer {
+  display: flex;
+}
+
+.left-links {
+  margin-right: auto;
+  display: flex;
+}
+
+.right-links {
+  margin-left: auto;
+  display: flex;
 }
