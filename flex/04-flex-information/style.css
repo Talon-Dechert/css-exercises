@@ -12,6 +12,18 @@ img {
   font-weight: 900;
 }
 
+.info {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.plantlist {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
