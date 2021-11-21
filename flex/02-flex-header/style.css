@@ -3,6 +3,7 @@
   background: papayawhip;
   display: flex;
   align-items: center;
+  padding: 5px 0px;
 }
 
 .logo {
@@ -11,6 +12,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: auto;
 }
 
 ul {
@@ -19,12 +21,11 @@ ul {
   display: flex;
   margin: 0px;
   padding: 0px;
-  justify-content: flex-start;
 }
 
 li {
   margin: 10px;
-  flex: 1 1 auto;
+  flex: 1;
 }
 
 a {
