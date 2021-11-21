@@ -24,6 +24,17 @@ img {
   gap: 52px;
 }
 
+.plantitem {
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.text {
+  text-align: center;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
