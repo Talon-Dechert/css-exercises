@@ -47,7 +47,16 @@ ul {
 
 .content{
   align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
 }
+
+.input,
+.buttons {
+  margin: auto;
+}
+
 
 .left-links,
 .right-links {
