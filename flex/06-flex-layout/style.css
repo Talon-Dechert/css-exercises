@@ -45,12 +45,16 @@ ul {
   align-self: center;
 }
 
+.left-links,
+.right-links {
+  display: flex;
+  gap: 10px;
+}
+
 .left-links {
   margin-right: auto;
-  display: flex;
 }
 
 .right-links {
   margin-left: auto;
-  display: flex;
 }
