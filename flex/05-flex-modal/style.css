@@ -23,6 +23,7 @@ body {
   display: flex;
   padding: 10px;
   gap: 10px;
+  align-items: flex-start;
 }
 
 .icon {
@@ -51,6 +52,11 @@ body {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 20px;
 }
 
 button {
