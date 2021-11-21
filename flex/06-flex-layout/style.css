@@ -57,6 +57,10 @@ ul {
   margin: auto;
 }
 
+.buttons>* {
+  padding: 7px;
+}
+
 
 .left-links,
 .right-links {
